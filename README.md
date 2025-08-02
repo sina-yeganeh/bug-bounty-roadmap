@@ -96,6 +96,6 @@ Every Friday, I add a new task for the following week, along with a link to the 
 
 | Week No. | Tasks | Practice | Status |
 | -------- | -------- | -------- | -------- |
-| 1 | [Access control issues](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice/access-control-apprentice/access-control/what-is-access-control), [authentication issues](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/what-is-authentication/authentication/what-is-authentication) | PortSwigger | :x: |
+| 1 | [Access control issues](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice/access-control-apprentice/access-control/what-is-access-control), [authentication issues](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/what-is-authentication/authentication/what-is-authentication), [file vulnerabilities](https://portswigger.net/web-security/learning-paths/file-upload-vulnerabilities) | PortSwigger | :x: |
 
  
