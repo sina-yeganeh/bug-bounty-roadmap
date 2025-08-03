@@ -91,11 +91,17 @@ This is not a complete list, I will add other tools later.
 ### Others
 - [ ] Web LLM Attacks
 
+## Resource
+Here is a list of my resources to learn this path:
+- [PortSwigger](https://portswigger.net/web-security/all-topics)
+- TryHackMe
+- HackTheBox
+
 ## To-Do Table
 Every Friday, I add a new task for the following week, along with a link to the course or content if it is available.
 
-| Week No. | Tasks | Practice | Status |
-| -------- | -------- | -------- | -------- |
-| 1 | [Access control issues](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice/access-control-apprentice/access-control/what-is-access-control), [authentication issues](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/what-is-authentication/authentication/what-is-authentication), [XSS](https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss) | PortSwigger | :x: |
+| Week No. | Tasks | Practice | Sina | Amir | Vafa | Mmd |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| 1 | [Access control issues](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice/access-control-apprentice/access-control/what-is-access-control), [authentication issues](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/what-is-authentication/authentication/what-is-authentication), [XSS](https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss) | PortSwigger | :x: | :x: | :x: | :x: | 
 
  
