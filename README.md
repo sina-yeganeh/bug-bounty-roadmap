@@ -36,14 +36,14 @@ This is not a complete list, I will add other tools later.
 		- [ ] Understanding cookie and JWT
 		- [ ] Burp: Repeater + Intercept
 	- [ ] Brut force login
-		- [ ] `fuff` / `hydra` / Burp Intruder
+		- [x] `fuff` / `hydra` / Burp Intruder
 		- [ ] Detect rate limits and bypass them
 		- [ ] Account lockout policy
-- [ ] Access Control Issues
+- [x] Access Control Issues
 	- [ ] IDOR (Insecure Direct Object Reference)
-	- [ ] Vertical and horizontal privilege Escalation 
-		- [ ] user -> admin
-		- [ ] user A -> user B
+	- [x] Vertical and horizontal privilege Escalation 
+		- [x] user -> admin
+		- [x] user A -> user B
 		- [ ] Roles and endpoints
 - [ ] File Vulnerabilities
 	- [ ] Content-type attack
@@ -67,7 +67,7 @@ This is not a complete list, I will add other tools later.
 ### Client-side and Logical
 - [ ] XSS
 	- [ ] Stored
-	- [ ] Reflected
+	- [x] Reflected
 	- [ ] DOM-based
 - [ ] CSRF (Cross-Site Request Forgery)
 	- [ ] Form without token
@@ -100,8 +100,9 @@ Here is a list of my resources to learn this path:
 ## To-Do Table
 Every Friday, I add a new task for the following week, along with a link to the course or content if it is available.
 
-| Week No. | Tasks | Practice | Sina | Amir | Vafa | Mmd |
+| Weeks | Tasks | Practice | Sina | Amir | Vafa | Mmd |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 1 | [Access control issues](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice/access-control-apprentice/access-control/what-is-access-control), [authentication issues](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/what-is-authentication/authentication/what-is-authentication), [XSS](https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss) | PortSwigger | :x: | :x: | :x: | :x: | 
+| 1 | [Access control issues](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice/access-control-apprentice/access-control/what-is-access-control), [authentication issues](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/what-is-authentication/authentication/what-is-authentication), [XSS](https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss) | PortSwigger | :white_check_mark: | :x: | :x: | :x: |
+| 2 | Footprinting and recon, scaning, enum | [RootMe](https://tryhackme.com/room/rrootme) | :x: | :x: | :x: | :x: |
 
  
