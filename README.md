@@ -104,6 +104,6 @@ Every Friday, I add a new task for the following week, along with a link to the 
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | 1 | [Access control issues](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice/access-control-apprentice/access-control/what-is-access-control), [authentication issues](https://portswigger.net/web-security/learning-paths/authentication-vulnerabilities/what-is-authentication/authentication/what-is-authentication), [XSS](https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss) | PortSwigger | :white_check_mark: | :white_check_mark: | :x: | :x: |
 | 2 | Footprinting and recon, scaning | [RootMe](https://tryhackme.com/room/rrootme) | :white_check_mark: | :white_check_mark: | :x: | :x: |
-| 3 | Enumeration | [RootMe](https://tryhackme.com/room/rrootme)(Continue) | :x: | :x: | :x: | :x: |
+| 3 | Freestyle | [RootMe](https://tryhackme.com/room/rrootme)(Continue) | :x: | :x: | :x: | :x: |
 
  
