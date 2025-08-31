@@ -1,5 +1,5 @@
-# Bug Bounty Roadmap
-This repository is just a personal to-do list for becoming a bug hunter. I published it in case anyone is interested in my journey. I should mention that I studied networking and have 3 to 4 years of non-professional programming experience. So That's why I did not add some fundemental stuff to learn.
+# Cybersecurity Roadmap
+This repository is just a personal to-do list for becoming a secuirty analyist/pen-tester. I published it in case anyone is interested in my journey. I should mention that I studied networking and have 3 to 4 years of non-professional programming experience. So That's why I did not add some fundemental stuff to learn.
 
 ## Tools
 ### Burpsuit
