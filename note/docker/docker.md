@@ -387,5 +387,26 @@ http {
     }
   }
 }
-
 ```
+
+## Registries & Publishing Images
+- Share image with your team
+- Deploy them on server/cloud
+- Use CI/CD pipeline
+That's where registries come in. A registries is like a Github repo but for Docker images:
+- You `push` images to them
+- Other `pull` them
+- Default registry: Docker Hub
+Other registry:
+- Github Container Registry (GHCR)
+- Gitlab
+- AWS ECR, Google GCR, Azure ACR
+- Or host your own
+### Key Concept
+- Every images has: `<name>:<tag>`
+- Logging into a registry: `docker login`
+- To push an image (app version 1.0):
+	- Tag it: `docker tag myapp:1.0 <username>/myapp:1.0`
+	- Push: `docker push <username>/myapp:1.0`
+	- Now anyone can run: `docker run <username>/myapp:1.0`
+- Pulling image: `docker pull postgres:15`, this will download the image and then you can `run` it.
